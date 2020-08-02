@@ -1,7 +1,7 @@
 # random-utils
 > Generate random things
 ## Installation
-```npm i random-utils```
+```npm i random-generator-utils```
 ## Random string generation
 Example:
 ``` javascript
