@@ -1,0 +1,45 @@
+{
+    "name": "random-generator-utils",
+    "description": "Random generator",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "email": "vikaskeskar11@gmail.com",
+        "name": "Vikas Keskar",
+        "url": "https://github.com/vikaskeskar11"
+    },
+    "keywords": [
+        "escape",
+        "tags",
+        "random",
+        "string",
+        "generator",
+        "random-generator-utils",
+        "utility"
+    ],
+    "repository": "random-generator-utils",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "index.js",
+        "random-generator-utils/*"
+    ],
+    "maintainers": [
+        {
+            "name": "Vikas Keskar",
+            "email": "vikaskeskar11@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/vikaskeskar11/random-generator-utils",
+    "publisher": "https://github.com/vikaskeskar11/random-generator-utils",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^8.1.0"
+    },
+    "scripts": {
+        "test": "mocha test"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}
