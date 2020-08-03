@@ -22,7 +22,8 @@
         "LICENSE",
         "README.md",
         "index.js",
-        "random-string-generator/*"
+        "random-string-generator/*",
+        "utils/*"
     ],
     "maintainers": [
         {
